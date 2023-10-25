@@ -3,7 +3,7 @@ These are simply my config preferences for powerlevel10k.  Feel free to leverage
 
 These are handy for me to use across various environments depending on my needs/mood :-)
 
-.p10k.zsh-transient-prompt-no
+**.p10k.zsh-transient-prompt-no**
 - Prompt Style:             (2) Classic
 - Character Set:            (1) Unicode
 - Prompt Color:             (3) Dark
@@ -20,7 +20,7 @@ These are handy for me to use across various environments depending on my needs/
 - Enable Transident Prompt: (1) No
 - Instant Prompt Mode:      (1) Verbose (recommended)
 
-.p10k.zsh-transient-prompt-yes
+**.p10k.zsh-transient-prompt-yes**
 - Prompt Style:             (2) Classic
 - Character Set:            (1) Unicode
 - Prompt Color:             (3) Dark
